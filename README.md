@@ -1,6 +1,6 @@
 # Jogo Secreto - ONE+ ALURA
 
-## Descrição
+## :notebook: Descrição
 
 O Jogo Secreto é um projeto de treinamento que visa aprimorar as habilidades em JavaScript, HTML e CSS. O objetivo do jogo é adivinhar um número secreto gerado aleatoriamente.
 
@@ -11,7 +11,7 @@ O Jogo Secreto é um projeto de treinamento que visa aprimorar as habilidades em
 - Verificação de palpites e exibição de feedback
 - Contagem de tentativas
 
-## Como usar
+## :computer_mouse:	 Como usar
 
 1. Abra o arquivo `index.html` no navegador
 2. Insira um palpite no campo de texto
@@ -19,13 +19,13 @@ O Jogo Secreto é um projeto de treinamento que visa aprimorar as habilidades em
 4. O jogo exibirá um feedback sobre o palpite (maior, menor ou correto)
 5. Continue tentando até acertar o número secreto
 
-## Tecnologias utilizadas
+## :desktop_computer: Tecnologias utilizadas
 
 - JavaScript para lógica do jogo
 - HTML para estrutura da página
 - CSS para estilização da interface
 
-## Contribuição
+## :raised_hand_with_fingers_splayed: Contribuição
 
 Este projeto é um treinamento pessoal e não está aberto a contribuições. No entanto, sinta-se à vontade para utilizar o código como referência para seus próprios projetos.
 
@@ -36,10 +36,10 @@ Este projeto é um treinamento pessoal e não está aberto a contribuições. No
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div>
 
-## Licença
+## :key: Licença
 
 Este projeto é licenciado sob a licença MIT.
 
-## Autor
+## :technologist: Autor
 
 Fabricio Lima
