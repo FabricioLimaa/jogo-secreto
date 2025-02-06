@@ -29,7 +29,7 @@ O Jogo Secreto é um projeto de treinamento que visa aprimorar as habilidades em
 
 Este projeto é um treinamento pessoal e não está aberto a contribuições. No entanto, sinta-se à vontade para utilizar o código como referência para seus próprios projetos.
 
-## �� Tecnologias
+## :man_technologist: Tecnologias
 <div>
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
